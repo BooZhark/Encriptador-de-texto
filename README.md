@@ -1,4 +1,4 @@
-# Cifrador/Descifrador César
+# Cifrador/Descifrador
 
 Este proyecto es una aplicación web sencilla que permite cifrar y descifrar texto utilizando el cifrado César. Los usuarios pueden ingresar un texto, cifrarlo con un desplazamiento fijo, descifrar el texto cifrado, y copiar el resultado al portapapeles.
 
